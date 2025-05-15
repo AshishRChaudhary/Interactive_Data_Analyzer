@@ -1,1 +1,1 @@
-# Interactive_Data_Analyzer using Strealit
+# Interactive_Data_Analyzer using Streamlit
